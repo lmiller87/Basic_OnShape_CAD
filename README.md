@@ -21,3 +21,11 @@ Very simple, I am getting a hang of the new Onshape tools, learned how to use li
 Very easy, but a few more difficult conecpts where introduced, like mirroring and chamfers. I had an issue mirroring because I wasn't using a mouse at the time but thats an easy fix problem.
 ## Link
 [Onshape "Fork"](https://cvilleschools.onshape.com/documents/2d82c2d2568941822bb77a99/w/87554984acac5bfb0a468095/e/3408b310d3334a8b6263b333)
+
+
+## Tire
+![Screen Shot 2020-09-23 at 11 41 44 AM](https://user-images.githubusercontent.com/54447117/94036203-0f2ecf80-fd92-11ea-8dc1-dc4e1f4dcde6.png)
+### Reflection:
+Very easy part if not the easiest. Only problem was gifuring out the dimensions, one of mine turned red and I had to restart the dimensions to solve the problem, and I had aparently previously defined a line which didn't allow me to use smart dimension.
+## Link
+[Onshape "Tire"](https://cvilleschools.onshape.com/documents/895b51b906e2912286b8105f/w/bea4df0faf83d4a2520569c0/e/8760e83f940d42c85af5277d)
