@@ -62,9 +62,12 @@ Literally the easiest thing I've ever done, all I had to do was use the "use" fe
 Simple, took two seconds, zero problems.
 ## Link
 [Oshape "Washer"](https://cvilleschools.onshape.com/documents/af707825ad88bce5b600d5a8/w/6b26c14f5fc247e0bdae9395/e/acc8055d748d1aa766cc3297)
-
-
+|
+|
+|
+|
 ## Sub Assembly
+
 ![Screen Shot 2020-09-30 at 12 42 42 PM](https://user-images.githubusercontent.com/54447117/94714916-c9867f80-031a-11eb-9e83-21b75dc18942.png)
 ### Reflection
 Not too hard. Im glad I learned how the new mate feature works, I think its more confusing than solidworks but more efficient.
