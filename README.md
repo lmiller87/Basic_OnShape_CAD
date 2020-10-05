@@ -73,3 +73,12 @@ Simple, took two seconds, zero problems.
 Not too hard. Im glad I learned how the new mate feature works, I think its more confusing than solidworks but more efficient.
 ## Link
 [Onshape "Sub-Assembly"](https://cvilleschools.onshape.com/documents/09393425546de217f8cbeeee/w/39b826fe79dd43c2bd6eaa2d/e/1f5647e9ab87ac03bfc4d0d9)
+
+
+## FINAL ASSEMBLY
+
+![Screen Shot 2020-10-05 at 11 28 37 AM](https://user-images.githubusercontent.com/54447117/95099718-412f2280-06fe-11eb-8ec7-3ccacefcc621.png)
+### Reflection
+Screws and nuts barely worked for me but I completely understand the process, I just need to figure out how to fix my screw problem. ( Might be because Im on a Mac but im not sure.)
+## Link
+[Onshape "Final Assembly"](https://cvilleschools.onshape.com/documents/00064b49c712c6e8f967f612/w/a79d73283fc70aa53339cc64/e/6bec152fd52e19d26a963e4e)
