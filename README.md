@@ -82,3 +82,16 @@ Not too hard. Im glad I learned how the new mate feature works, I think its more
 Screws and nuts barely worked for me but I completely understand the process, I just need to figure out how to fix my screw problem. ( Might be because Im on a Mac but im not sure.)
 ## Link
 [Onshape "Final Assembly"](https://cvilleschools.onshape.com/documents/00064b49c712c6e8f967f612/w/a79d73283fc70aa53339cc64/e/6bec152fd52e19d26a963e4e)
+
+__________________________________________________________________________
+
+
+# Dorothys Dowel Pins
+
+![Screen Shot 2020-10-09 at 6 05 34 PM](https://user-images.githubusercontent.com/54447117/95635393-5091d100-0a5a-11eb-830f-7aed10533952.png)
+
+##Relfection:
+I really enjoyed this project because it brought me back to last year when I made a configuration for gears and gear spikes. It was very interesting to see how much simpler it was to create a config on onshape as cmpared to solidworks. I thought the Dowel Pin project was a very fun twist on how to make a configuration. For my personal assignment, I kind of bended it a little bit, instead of making a rectangular frame, I decided to make a square frame because I though it looked better and I could use the insert feature to insert four of the same lengths into one assembly. (Also an FYI, my dowel pins where being a little weird and rqandomly disappearing during my assembly so if they don't show up just let me know and ill try to fix it.)
+
+## Link 
+[Dowel Pins](https://cvilleschools.onshape.com/documents/2d6216bc27c7be83c348b618/w/33f120389301354d3a0f4916/e/e1b2f89da44df6e7d1466e86)
